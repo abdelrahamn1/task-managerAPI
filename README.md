@@ -57,7 +57,7 @@ These instructions will get you a copy of the project up and running on your loc
 Start with cloning this repo on your local machine:
 
 ```sh
-$ git clone [https://github.com/abdelrahamn1/task-manager.git]
+$ git clone [https://github.com/abdelrahamn1/task-managerAPI.git]
 ```
 
 To install and set up the library, run:
