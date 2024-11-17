@@ -1,0 +1,102 @@
+[
+  {
+    "title": "Task 1",
+    "description": "Set up project repository",
+    "status": "not started"
+  },
+  {
+    "title": "Task 2",
+    "description": "Create project documentation",
+    "status": "pending"
+  },
+  {
+    "title": "Task 3",
+    "description": "Set up database schema",
+    "status": "completed"
+  },
+  {
+    "title": "Task 4",
+    "description": "Design user authentication flow",
+    "status": "not started"
+  },
+  {
+    "title": "Task 5",
+    "description": "Implement authentication endpoints",
+    "status": "pending"
+  },
+  {
+    "title": "Task 6",
+    "description": "Design API structure",
+    "status": "completed"
+  },
+  {
+    "title": "Task 7",
+    "description": "Develop frontend UI for login",
+    "status": "not started"
+  },
+  {
+    "title": "Task 8",
+    "description": "Set up testing environment",
+    "status": "pending"
+  },
+  {
+    "title": "Task 9",
+    "description": "Write initial test cases",
+    "status": "completed"
+  },
+  {
+    "title": "Task 10",
+    "description": "Connect frontend with backend APIs",
+    "status": "not started"
+  },
+  {
+    "title": "Task 11",
+    "description": "Optimize database queries",
+    "status": "pending"
+  },
+  {
+    "title": "Task 12",
+    "description": "Refactor backend code for readability",
+    "status": "completed"
+  },
+  {
+    "title": "Task 13",
+    "description": "Improve error handling",
+    "status": "not started"
+  },
+  {
+    "title": "Task 14",
+    "description": "Implement role-based access control",
+    "status": "pending"
+  },
+  {
+    "title": "Task 15",
+    "description": "Develop dashboard interface",
+    "status": "completed"
+  },
+  {
+    "title": "Task 16",
+    "description": "Create logging system",
+    "status": "not started"
+  },
+  {
+    "title": "Task 17",
+    "description": "Add notifications feature",
+    "status": "pending"
+  },
+  {
+    "title": "Task 18",
+    "description": "Write user guide documentation",
+    "status": "completed"
+  },
+  {
+    "title": "Task 19",
+    "description": "Conduct usability testing",
+    "status": "not started"
+  },
+  {
+    "title": "Task 20",
+    "description": "Deploy application to production",
+    "status": "pending"
+  }
+]
