@@ -1,7 +1,6 @@
 [![npm version](https://badge.fury.io/js/your-package-name.svg)](https://badge.fury.io/js/your-package-name)
 [![JavaScript](https://img.shields.io/badge/javascript-ES6-green)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![JavaScript Style Guide](https://img.shields.io/badge/code_style-eslint-4B32C3.svg)](https://eslint.org/)
-[![npm version](https://badge.fury.io/js/angular2-expandable-list.svg)](https://badge.fury.io/js/angular2-expandable-list)
 [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
 [![Postman Collection](https://img.shields.io/badge/Postman-Collection-blue)](https://www.postman.com/your-collection-link)
 
