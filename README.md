@@ -32,7 +32,7 @@ v22.11.0
 ```
 ``
 
-***.env file requirements
+*** .env file requirements
 you must provide the following environment variables to run the application
 ```sh
 DATABASE = ...    //  Atlas MongoDb
