@@ -6,13 +6,13 @@
 
 
 # Task manager RestAPI 
-> This is a restApI for task manger app , with simple data base
+> This is a restApI for task manger app , with simple DataBase
 
 ## How it Works
  * admin controller to manipulate diffrent operations for users (add, update, delete, get)
  * user can (add ,remove, update , delete ) there own tasks too
- * login , signUp authentication  , with handel different errors 
- * forget and reste password , using nodeMailer
+ * login , signUp authentication  , with handel different errors , and more authentications
+ * forget and reset password , using nodeMailer
 
 
 ## Prerequisites
