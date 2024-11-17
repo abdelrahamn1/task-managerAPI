@@ -94,7 +94,7 @@ $ npm start
 or if it dose't work : 
 
 ```sh
-$ node (app-path)
+$ node server.js
 ```
 
 Or if you prefer using Yarn:
